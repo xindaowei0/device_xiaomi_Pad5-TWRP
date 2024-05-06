@@ -8,9 +8,9 @@
    }
  {
     "remote":      "GitHub",
-    "repository":  "Rinko-Studio/android_kernel_xiaomi_dagu",
+    "repository":  "MiCode/Xiaomi_Kernel_OpenSource",
     "target_path": "kernel/xiaomi/dagu",
-    "revision":    "arrow13.0"
+    "revision":    "dagu-s-oss"
  },
  
 
