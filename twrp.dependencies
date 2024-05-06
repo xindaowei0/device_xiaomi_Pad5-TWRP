@@ -1,11 +1,6 @@
 [
 
-  {
-      "remote":      "GitHub",
-      "repository":  "TeamWin/android_device_xiaomi_sm8250-common",
-      "target_path": "device/xiaomi/sm8250-common",
-      "revision":    "android-12.1"
-   }
+
  {
     "remote":      "GitHub",
     "repository":  "MiCode/Xiaomi_Kernel_OpenSource",
