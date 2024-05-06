@@ -1,4 +1,5 @@
 [
+<<<<<<< HEAD
 
   {
       "remote":      "GitHub",
@@ -14,4 +15,18 @@
  },
  
 
+=======
+ {
+    "remote":      "GitHub",
+    "repository":  "Pranav-Talmale/android_device_xiaomi_sm8250-common",
+    "target_path": "device/xiaomi/sm8250-common",
+    "revision":    "android-11"
+ },
+  {
+    "remote":      "GitHub",
+    "repository":  "Rinko-Studio/android_kernel_xiaomi_dagu",
+    "target_path": "kernel/xiaomi/dagu",
+    "revision":    "arrow13.0"
+  }
+>>>>>>> 303f4ab3e490d4404e8b5496080dfd843900928f
 ]

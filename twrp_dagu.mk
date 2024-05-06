@@ -25,6 +25,7 @@ $(call inherit-product, device/xiaomi/elish/device.mk)
 $(call inherit-product, vendor/twrp/config/common.mk)
 
 # Device identifier. This must come after all inclusions
+PRODUCT_DEVICE := dagu
 PRODUCT_DEVICE := elish
 PRODUCT_NAME := twrp_dagu
 PRODUCT_BRAND := Xiaomi
